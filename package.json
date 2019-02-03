@@ -1,0 +1,20 @@
+{
+  "name": "companydetails",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "author": {
+    "name": "Deepali",
+    "email": ""
+  },
+  "scripts": {
+    "test": ""
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "4.10.8",
+    "knex": "^0.16.3",
+    "mysql": "^2.16.0",
+    "xmlbuilder": "^10.1.1"
+  }
+}
